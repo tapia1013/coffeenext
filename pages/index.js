@@ -3,7 +3,6 @@ import Image from 'next/image'
 import Banner from '../components/Banner'
 import styles from '../styles/Home.module.css'
 
-// VIDEO 17 @5:57sec
 
 export default function Home() {
 
